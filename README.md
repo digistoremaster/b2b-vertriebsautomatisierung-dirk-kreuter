@@ -1,6 +1,7 @@
 
 # Dirk Kreuter Auftrags-Generator: B2B Vertriebsautomatisierung ohne Kaltakquise
 
+
 > **Zusammenfassung:** Die Zeiten stundenlanger, frustrierender Kaltakquise im B2B-Bereich sind vorbei. Mit dem neuen **Auftrags-Generator** präsentiert Europas Vertriebsexperte Nr. 1, Dirk Kreuter, eine praxiserprobte System-Innovation: Ein automatisiertes Vertriebssystem, das hochqualifizierte B2B-Anfragen direkt in deine Pipeline spült.
 
 ---
